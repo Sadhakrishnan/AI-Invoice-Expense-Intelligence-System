@@ -210,11 +210,9 @@ invoice-intelligence/
 ├── analytics/
 │   └── insights.py
 │
-├── api/
-│   └── main.py
+├── main.py
 │
-├── frontend/
-│   └── app.py
+├── app.py
 │
 └── README.md
 ```
