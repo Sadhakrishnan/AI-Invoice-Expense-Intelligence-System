@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pdfplumber
+opencv-python
+pytesseract
+scikit-learn
+pandas
+plotly
+python-multipart
